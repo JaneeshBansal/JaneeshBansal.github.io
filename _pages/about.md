@@ -18,7 +18,7 @@ I graduated from Queen Mary university of London in 2022 with a MSc in Bioinform
 
 - 📌 My overall work is on using Bayesian Inference and Deep Learning approaches to infer patterns of disease spread from the genomes of the malaria parasite. 
 - 🔭 I am currently investigating demographic inference softwares and their frameworks. I have been explaining their outputs using simulations and ordinary differential equations to descibe the logic. These tools also produce the same results in population bottleneck and substructure scenarios and I am trying to distinguish between them using Approximate Bayesian Computation. 
-- 🔭 My next project will be investigating a malaria tool hmmIBD and its results. 
+- 🔭 My next project will be investigating the malaria tool hmmIBD and its results. 
 
 
 
