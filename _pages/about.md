@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Janeesh Kaur Bansal"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Who am I ...
+About me ...
 =====
 Hey! I am Janeesh a second year Biological Sciences PhD student at Queen Mary University of London supervised by [Prof Richard Nichols](https://www.qmul.ac.uk/sbbs/staff/richardnichols.html), [Dr Matteo Fumagalli](https://www.qmul.ac.uk/sbbs/staff/matteo-fumagalli.html), [Dr Bob Verity](https://www.imperial.ac.uk/people/r.verity) and [Prof Alexander Gnedin](https://www.qmul.ac.uk/maths/profiles/gnedina.html). 
 
