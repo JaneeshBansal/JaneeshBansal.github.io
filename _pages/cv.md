@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD Biological Sciences, Queen Mary University of London, 2022-current 
+* MSc Bioinformatics, Queen Mary University of London, 2021-2022 
+* BSc(Hons) Natural Sciences Biochemistry Major Chemistry Minor, University of Bath, 2018-2021
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
