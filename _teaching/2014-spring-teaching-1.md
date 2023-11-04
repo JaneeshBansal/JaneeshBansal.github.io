@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "MSc Bioinformatics"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Masters course"
+permalink: /teaching/2022-masters-teaching
+venue: "QMUL, SBBS"
+date: 2022-12-09
+location: "London, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Bioinformatics Masters students in the AI and Data Science module. Supporting them in using Cytoscape. 
 
 Heading 1
 ======
