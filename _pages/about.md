@@ -19,9 +19,6 @@ What do I research ...
 - 📌 My overall project is on using Bayesian Inference and Deep Learning approaches to infer patterns of disease spread from the genomes of the malaria parasite. 
 - 🔭 I am currently working on distinguishing between population bottleneck and substructure scenarios using ABC and investigating demographic inference software tools.
 
-My other interests ...
-======
-- Art
-- Karate
+
 
 

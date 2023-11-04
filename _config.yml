@@ -9,7 +9,7 @@
 locale                   : "en-UK"
 title                    : "Janeesh Kaur Bansal"
 title_separator          : "-"
-name                     : &name "Janees Kaur Bansal"
+name                     : &name "Janeesh Kaur Bansal"
 description              : &description "personal description"
 url                      : https://JaneeshBansal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,11 +83,11 @@ author:
   name             : "Janeesh"
   avatar           : "janeesh_pic.png"
   bio              : "Hi! I am Janeesh a Biological Sciences PhD student at QMUL"
-  location         : "London"
-  employer         : QMUL
+  location         : "QMUL, London"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "j.k.bansal@qmul.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
