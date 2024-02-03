@@ -9,11 +9,14 @@ author_profile: true
 
 | Undegraduate Modules          | When     | Content                                                               |
 | --------                      | ------   | ------------------------------------------------------------          |
+| Coding and Data Science       | Sem2-24  | Intermediate R, GitHub and tidying data                               |
+| Metabolic Pathways            | Sem2-24  |                                                                       |
 | Coding Club                   | Sem1-23  | Introductory R                                                        |
 | Research Design and Analysis  | Sem1-23  | Introductory R and statistical analysis                               |
 
 | Masters modules               | When     | Content                                                               |
 | --------                      | ------   | ------------------------------------------------------------          |
+| AI in Biosciences             | Dec-23   | SearchGUI, Networks                                                   |
 | Statistics for Biologists     | Nov-23   | Comprehensive coverage of R, statistical tests and Bayesian theory    |
 | Coding for Bioscientists      | Oct-23   | Comprehensive coverage of Python                                      |
 

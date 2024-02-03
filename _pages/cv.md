@@ -46,3 +46,6 @@ Work Experience
   * Working as an undergraduate researcher I investigated the ROCK signaling pathway. I expanded my knowledge of bioimaging software's such as Ilastik and ImageJ. I analysed cells at different stages of the cell cycle and identified the effects of the ROCK inhibitor Y-27. Using the outputs from Ilastik, I used R to present my findings to the team in weekly meetings. Eager to expand my knowledge on Bioimaging I continued this research in my final year project.
 
 
+Extra Curriculars 
+======
+* Karate

@@ -10,9 +10,7 @@ author_profile: true
 
 ## Popgroup56 - University of St Andrew's - Jan 2024
 
-Presented the poster 
-
-![some discription](poster_janeesh.pdf "some discription")
+Presented the poster "What is knowable about past demography? The limited scope of genomic data analysis". Receieved a grant from the Genetics Society to support my attendance. 
 
 # 2023
 
