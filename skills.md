@@ -27,4 +27,4 @@ My PhD work sits at the intersection of statistics, simulation, and software —
 
 Python, R, Bash, Git, Linux, HPC, Jupyter, LaTeX
 
-See my [Research](/publications/) and [CV](/resume/) pages for where these skills have been applied.
+See my [Research](/research/) and [CV](/cv/) pages for where these skills have been applied.
