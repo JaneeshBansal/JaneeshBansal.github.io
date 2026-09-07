@@ -40,6 +40,8 @@ permalink: /resume/
 
 I have taught and supported students across undergraduate and master's-level biological sciences modules.
 
+* Delivered **200+ hours** of teaching spanning a full Python programming module, from fundamentals to object-oriented design. Taught a statistics and simulation module in R covering probability, statistical inference and stochastic modelling, developing practical exercises that made abstract concepts tangible for students from diverse backgrounds.
+
 ### 2023-2024
 
 Module | Topics
