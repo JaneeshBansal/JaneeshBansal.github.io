@@ -1,29 +1,31 @@
 title: Janeesh Kaur Bansal
 description: Computational biologist and PhD researcher working on malaria genomics.
+author: Janeesh Kaur Bansal
 url: "https://JaneeshBansal.github.io"
 baseurl: ""
-author: Janeesh Kaur Bansal
-accent: "#0b6e69"
-profile_picture: "/images/janeesh_pic.png"
-tracking_id:
 
-nav:
-  - name: "About"
-    link: "/"
-  - name: "Research"
-    link: "/publications/"
-  - name: "Teaching"
-    link: "/teaching/"
-  - name: "Resume"
-    link: "/resume/"
-  - name: "Contact"
-    link: "/contact/"
+markdown: kramdown
 
-footer: true
+tracking_id: #
+
+footer: yes
 footer_url: "https://github.com/JaneeshBansal"
 footer_text: "Janeesh Kaur Bansal"
 
-markdown: kramdown
 sass:
-  style: compressed
-  sass_dir: _sass
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Research"
+   link: "/publications/"
+ - name: "Teaching"
+   link: "/teaching/"
+ - name: "Conferences"
+   link: "/conferences-and-courses/"
+ - name: "Resume"
+   link: "/resume/"
+ - name: "Contact"
+   link: "/contact/"

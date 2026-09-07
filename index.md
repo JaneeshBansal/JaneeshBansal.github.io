@@ -1,12 +1,10 @@
 ---
 layout: default
-title: About
-description: Computational biologist and PhD researcher working on malaria genomics.
 ---
 
-<img class="profile-picture" src="{{ site.profile_picture | relative_url }}" alt="Janeesh Kaur Bansal">
+<img class="profile-picture" src="/images/janeesh_pic.png">
 
-## Janeesh Kaur Bansal
+## About Me
 
 I am a PhD researcher in Biological Sciences at Queen Mary University of London, working at the intersection of computational biology, population genetics, and infectious disease research.
 
@@ -22,10 +20,7 @@ My next project will investigate the malaria tool **hmmIBD** and the interpretat
 
 Before starting my PhD, I completed an MSc in Bioinformatics at Queen Mary University of London and a BSc (Hons) in Natural Sciences, with a major in Biochemistry and a minor in Chemistry, at the University of Bath.
 
-## Selected links
+## Links
 
-- [Publications and research]({{ "/publications/" | relative_url }})
-- [Teaching and courses]({{ "/teaching/" | relative_url }})
-- [Resume]({{ "/resume/" | relative_url }})
-- [ORCID](https://orcid.org/0000-0002-1974-9738)
-- [GitHub](https://github.com/JaneeshBansal)
+* [ORCID](https://orcid.org/0000-0002-1974-9738)
+* [GitHub](https://github.com/JaneeshBansal)

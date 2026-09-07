@@ -1,6 +1,14 @@
-/* Theme variables */
+/*
+ * Customization Variables
+ */
+
 $accent: #0b6e69;
-$image-size: 120px;
-$max-width: 760px;
-$med-width: 620px;
+$image-size: 85px;
+
+/*
+ * Build Variables, don't touch
+ */
+
+$max-width: 700px;
+$med-width: 600px;
 $small-width: 480px;
