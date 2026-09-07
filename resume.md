@@ -89,3 +89,4 @@ AI in Biosciences | Cytoscape and SearchGUI
 * **QMUL "Made Different" Student Recruitment Campaign** — Shared my story as a PhD student and part of a diverse community.
 * **MASAMB24 Committee** — Supported speakers and attendees, and organised the post-event social.
 * **Heston Community School** — Delivered annual talks encouraging students to pursue scientific careers, and provided support with personal statements.
+* **Genetics Society Symposium Grant (£2,000)** — Awarded funding to organise a symposium in November 2026 bringing together malaria researchers and population geneticists.
