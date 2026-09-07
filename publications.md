@@ -4,6 +4,10 @@ title: Research
 permalink: /publications/
 ---
 
+## Publications
+
+**Bansal, J.K. and Nichols, R.A.** (2025). Can genomic analysis actually estimate past population size? *Trends in Genetics*, 41(7):559–567. DOI: [10.1016/j.tig.2025.04.005](https://doi.org/10.1016/j.tig.2025.04.005) (Open access)
+
 ## Research outputs
 
 ### Research Assistant — Simulation & Analytical Modelling
