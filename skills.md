@@ -10,21 +10,21 @@ My PhD work sits at the intersection of statistics, simulation, and software —
 
 ### Quantitative & Statistical Modelling
 
-* Bayesian inference and approximate Bayesian computation (ABC) for estimating parameters and comparing competing models under uncertainty.
-* Stochastic simulation and Monte Carlo methods for generating synthetic data and validating model behaviour against real-world observations.
-* Differential equation-based modelling of dynamical systems.
-* Deep learning approaches applied to inference problems.
-* Designing analyses to distinguish between processes that produce similar observed signals — a core skill for separating genuine effect from noise or confounding.
+* Probabilistic modelling, Bayesian inference, hidden Markov models, and transition matrix methods.
+* ODE-based and stochastic simulation, with uncertainty quantification and sensitivity/scenario analysis.
+* Model back-testing, validation, and parameter estimation against empirical data.
+* Synthetic dataset generation and time series analysis.
+* Machine learning for surrogate modelling and training data generation.
 
 ### Software Engineering & Data Science
 
-* Python, R, and Bash for building analysis pipelines and reproducible research workflows.
-* Version control with Git/GitHub, including teaching it to undergraduate and master's students.
-* Processing, cleaning, and validating large-scale, high-dimensional datasets.
-* Translating complex quantitative methods into clear documentation and teaching materials.
+* Modular, production-quality Python, R, and Bash for building analysis pipelines and reproducible research workflows.
+* Version control with Git, including teaching it to undergraduate and master's students.
+* HPC deployment — cluster scheduling and array jobs — for large-scale parameter sweeps.
+* Collaborative research workflows, and processing/validating large-scale, high-dimensional datasets.
 
-### Programming Languages
+### Tools
 
-Python, R, Bash
+Python, R, Bash, Git, Linux, HPC, Jupyter, LaTeX
 
 See my [Research](/publications/) and [CV](/resume/) pages for where these skills have been applied.

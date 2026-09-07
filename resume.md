@@ -20,9 +20,10 @@ permalink: /resume/
 
 ## Skills
 
-* **Programming:** R, Bash, Python
+* **Programming:** Python (primary; modular, production-quality), R, Bash, Git, Linux, HPC, Jupyter, LaTeX
+* **Quantitative Modelling:** Probabilistic modelling, Bayesian inference, hidden Markov models, transition matrix methods, ODEs, stochastic simulation, uncertainty quantification, sensitivity and scenario analysis, model back-testing and validation, parameter estimation, synthetic dataset generation, time series analysis, machine learning (surrogate modelling, training data generation)
+* **Software & Workflow:** Modular production Python, version control (Git), reproducible analytical pipelines, HPC deployment (cluster scheduling, array jobs), collaborative research workflows
 * **Languages:** English, Punjabi, Hindi, German
-* **Methods:** Bayesian inference, deep learning, demographic inference, simulation, and mathematical modelling
 
 ## Experience
 
