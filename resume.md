@@ -6,7 +6,8 @@ permalink: /resume/
 
 ## Education
 
-* **PhD Biological Sciences**, Queen Mary University of London, 2022-present
+* **PhD Biological Sciences**, Queen Mary University of London, 2022-2026
+  * Thesis: *Inferring Demographic and Transmission Dynamics from Genomic Sequences*
   * Bayesian inference and deep learning approaches to infer patterns of disease spread from malaria parasite genomes.
   * Supervisors: Prof Richard Nichols, Dr Matteo Fumagalli, Dr Robert Verity, and Prof Alexander Gnedin.
 * **MSc Bioinformatics**, Queen Mary University of London, 2021-2022
