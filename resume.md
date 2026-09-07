@@ -14,6 +14,10 @@ permalink: /resume/
 * **BSc (Hons) Natural Sciences**, University of Bath, 2018-2021
   * Biochemistry major, Chemistry minor.
 
+## Publications
+
+* **Bansal, J.K. and Nichols, R.A.** (2025). Can genomic analysis actually estimate past population size? *Trends in Genetics*, 41(7):559–567. DOI: [10.1016/j.tig.2025.04.005](https://doi.org/10.1016/j.tig.2025.04.005) (Open access)
+
 ## Skills
 
 * **Programming:** R, Bash, Python
@@ -22,6 +26,10 @@ permalink: /resume/
 
 ## Experience
 
+* **Research Assistant — Simulation & Analytical Modelling**, Imperial College London, March 2026-February 2027
+  * Developed a large-scale stochastic simulation framework in Python to generate high-quality synthetic datasets for training machine learning surrogate models.
+  * Ran sensitivity and scenario analyses across 10,000+ parameter combinations on HPC infrastructure, validating synthetic outputs against empirical data.
+  * Built automated, modular Python pipelines adopted by collaborating teams.
 * **Computational Biology Intern**, Brunel University London, June-September 2021
   * Learned Visual Molecular Dynamics (VMD) through monthly meetings and online tutorials, with the support of Dr Sarath Dantu. Explored PETases and CUTinases, comparing the residues that facilitate catalytic activity, and used trajectories to highlight areas of high protein movement.
 * **Bioimaging Intern**, University of Bath, June-September 2020
