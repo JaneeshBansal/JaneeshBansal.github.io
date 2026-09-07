@@ -23,6 +23,12 @@ My PhD work sits at the intersection of statistics, simulation, and software —
 * HPC deployment — cluster scheduling and array jobs — for large-scale parameter sweeps.
 * Collaborative research workflows, and processing/validating large-scale, high-dimensional datasets.
 
+### Communication & Writing
+
+* Peer-reviewed publication and invited/award-winning talks (Best Talk, QMUL Third Year Symposium; invited speaker, LSHTM).
+* 200+ hours teaching technical material to diverse audiences.
+* Translating complex quantitative methods for non-technical stakeholders.
+
 ### Tools
 
 Python, R, Bash, Git, Linux, HPC, Jupyter, LaTeX
