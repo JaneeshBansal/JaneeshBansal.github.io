@@ -6,19 +6,17 @@ layout: default
 
 ## About Me
 
-I am a PhD researcher in Biological Sciences at Queen Mary University of London, working at the intersection of computational biology, population genetics, and infectious disease research. My day-to-day work is quantitative and computational — statistical modelling, simulation, and software — and I'm keen to apply those skills in quantitative, software development, or data science roles. See my [Skills](/skills/) page for more.
-
-## Research
-
-My work uses Bayesian inference, deep learning, simulations, and differential equations to understand how malaria spreads through parasite genomes.
-
-I am currently investigating how demographic inference tools behave under population bottlenecks and substructure. By comparing their outputs with simulated data and approximate Bayesian computation, I aim to distinguish biological histories that produce similar genomic signals.
-
-My next project will investigate the malaria tool **hmmIBD** and the interpretation of its results.
+I am a Research Assistant at Imperial College London and a final-year PhD researcher in Biological Sciences at Queen Mary University of London, working at the intersection of computational biology, population genetics, and infectious disease research. My day-to-day work is quantitative and computational, involving statistical modelling, simulation, and software development — and I'm keen to apply those skills in quantitative, software development, or data science roles. See my [Skills](/skills/) page for more.
 
 ## Background
 
-Before starting my PhD, I completed an MSc in Bioinformatics at Queen Mary University of London and a BSc (Hons) in Natural Sciences, with a major in Biochemistry and a minor in Chemistry, at the University of Bath.
+* **MSc Bioinformatics**, Queen Mary University of London
+* **BSc (Hons) Natural Sciences** (Biochemistry major, Chemistry minor), University of Bath
+* Passionate about scientific communication and encouraging women into STEM subjects
+
+## Other Interests
+
+Outside research, I'm a competitive bhangra dancer — see [Beyond Research](/beyond-research/) for more.
 
 ## Links
 

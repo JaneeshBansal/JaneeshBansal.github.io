@@ -64,3 +64,11 @@ AI in Biosciences | Cytoscape and SearchGUI
 * **Bioinference**, University of Oxford, July 2023
 * **Deep Learning for Population Genetics and Phylogeography**, online, February 2023
 * **PopGroup56**, Queen Mary University of London, January 2023
+
+## Outreach & Public Engagement
+
+* **Mitosis Magazine** — Featured in a student-led magazine and interviewed on their YouTube channel, sharing advice on PhD applications and experiences as a woman in STEM.
+* **QMUL PhD Spotlight (University Newspaper)** — Featured discussing my thesis, research interests, life at QMUL, and extracurricular activities.
+* **QMUL "Made Different" Student Recruitment Campaign** — Shared my story as a PhD student and part of a diverse community.
+* **MASAMB24 Committee** — Supported speakers and attendees, and organised the post-event social.
+* **Heston Community School** — Delivered annual talks encouraging students to pursue scientific careers, and provided support with personal statements.

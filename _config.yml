@@ -25,5 +25,7 @@ nav:
    link: "/skills/"
  - name: "CV"
    link: "/resume/"
+ - name: "Beyond Research"
+   link: "/beyond-research/"
  - name: "Contact"
    link: "/contact/"
