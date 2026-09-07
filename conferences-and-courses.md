@@ -9,7 +9,7 @@ permalink: /conferences-and-courses/
 ### 2024
 
 * **PopGroup56**, University of St Andrews, January 2024
-  * Presented the poster "What is knowable about past demography? The limited scope of genomic data analysis".
+  * Presented the poster ["What is knowable about past demography? The limited scope of genomic data analysis"](/files/poster_janeesh.pdf).
   * Supported by a Genetics Society travel grant.
 
 ### 2023
