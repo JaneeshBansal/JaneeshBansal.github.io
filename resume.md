@@ -63,18 +63,24 @@ AI in Biosciences | Cytoscape and SearchGUI
 
 ## Conferences and Courses
 
-### 2024
+### Research Talks and Posters
 
-* **PopGroup56**, University of St Andrews, January 2024
+* **CEE Symposium**, LSHTM, September 2025 — Invited speaker
+* **Third Year Symposium**, Queen Mary University of London, May 2025 — Best Talk
+* **PopGroup58**, Sheffield, January 2025
+* **MASAMB**, Queen Mary University of London, August 2024 — Poster
+* **ProbGen24**, Vienna Biocentre — Poster
+* **PopGroup57**, University of St Andrews, January 2024 — Poster
   * Presented the poster ["What is knowable about past demography? The limited scope of genomic data analysis"](/files/poster_janeesh.pdf).
   * Supported by a Genetics Society travel grant.
+* **Bioinference**, University of Oxford, July 2023
+* **PopGroup56**, Queen Mary University of London, January 2023
+* **First Year Symposium**, Queen Mary University of London, November 2022 — Talk
 
-### 2023
+### Courses
 
 * **Analysis of High Throughput Data for Population Genetics**, University of Copenhagen, August 2023
-* **Bioinference**, University of Oxford, July 2023
 * **Deep Learning for Population Genetics and Phylogeography**, online, February 2023
-* **PopGroup56**, Queen Mary University of London, January 2023
 
 ## Outreach & Public Engagement
 
