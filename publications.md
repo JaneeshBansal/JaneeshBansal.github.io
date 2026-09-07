@@ -15,4 +15,4 @@ I am currently preparing publication records and project notes for this section.
 * Distinguishing population bottlenecks from substructure.
 * Approximate Bayesian computation and the interpretation of hmmIBD results.
 
-For collaboration or questions about my work, [get in touch](/contact/).
+For collaboration or questions about my work, [get in touch](/#contact).

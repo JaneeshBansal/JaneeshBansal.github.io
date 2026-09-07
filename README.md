@@ -5,7 +5,7 @@ Personal academic website for Janeesh Kaur Bansal, built on the [Researcher](htt
 ## Structure
 
 * `_config.yml` — site title, nav, and footer settings.
-* `index.md`, `publications.md`, `teaching.md`, `conferences-and-courses.md`, `resume.md`, `contact.md` — page content, each a plain markdown file with `layout: default`.
+* `index.md`, `publications.md`, `skills.md`, `resume.md`, `beyond-research.md` — page content, each a plain markdown file with `layout: default`.
 * `_layouts/default.html` — page shell (nav, footer, meta tags).
 * `_sass/`, `css/main.scss` — styling. Accent colour is set in `_sass/vars.scss`.
 
