@@ -6,7 +6,7 @@ layout: default
 
 ## About Me
 
-I am a PhD researcher in Biological Sciences at Queen Mary University of London, working at the intersection of computational biology, population genetics, and infectious disease research.
+I am a PhD researcher in Biological Sciences at Queen Mary University of London, working at the intersection of computational biology, population genetics, and infectious disease research. My day-to-day work is quantitative and computational — statistical modelling, simulation, and software — and I'm keen to apply those skills in quantitative, software development, or data science roles. See my [Skills](/skills/) page for more.
 
 ## Research
 
