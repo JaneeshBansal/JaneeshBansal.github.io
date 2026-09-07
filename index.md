@@ -10,12 +10,13 @@ I am a Research Assistant at Imperial College London and a final-year PhD resear
 
 My day-to-day work is quantitative and computational, involving statistical modelling, simulation, and software development — and I'm keen to apply those skills in quantitative, software development, or data science roles. See my [Skills](/skills/) page for more.
 
+I'm also passionate about scientific communication and encouraging more women into STEM subjects.
+
 ## Background
 
 * **PhD Biological Sciences**, Queen Mary University of London
 * **MSc Bioinformatics**, Queen Mary University of London
 * **BSc (Hons) Natural Sciences** (Biochemistry major, Chemistry minor), University of Bath
-* Passionate about scientific communication and encouraging women into STEM subjects
 
 ## Contact
 
