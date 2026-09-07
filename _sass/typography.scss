@@ -1,0 +1,25 @@
+.content {
+  h1, h2, h3 {
+    color: #252525;
+    line-height: 1.25;
+  }
+
+  h2 {
+    margin-top: 2.4rem;
+    font-size: 1.2rem;
+  }
+
+  ul, ol {
+    padding-left: 1.4rem;
+  }
+
+  li {
+    margin: 0.35rem 0;
+  }
+
+  blockquote {
+    margin-left: 0;
+    padding-left: 1rem;
+    border-left: 3px solid $accent;
+  }
+}

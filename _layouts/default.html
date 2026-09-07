@@ -1,31 +1,33 @@
----
-layout: compress
----
-
-{% include base_path %}
-
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
-
-  <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ site.description }}">
+  <meta name="author" content="{{ site.author }}">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+</head>
+<body>
+  <div class="wrapper">
+    <header class="navbar container">
+      <a id="author-name" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+      <nav aria-label="Primary navigation">
+        <ul id="navlist" class="navbar-ul">
+          {% for item in site.nav %}
+            <li class="nav-list"><a href="{{ item.link | relative_url }}">{{ item.name }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </header>
+    <main class="container content">
+      {{ content }}
+    </main>
+    {% if site.footer %}
+      <footer class="container site-footer">
+        <a href="{{ site.footer_url }}">{{ site.footer_text }}</a>
       </footer>
-    </div>
-
-    {% include scripts.html %}
-
-  </body>
+    {% endif %}
+  </div>
+</body>
 </html>
